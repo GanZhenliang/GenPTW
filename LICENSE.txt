@@ -1,0 +1,26 @@
+NON-COMMERCIAL RESEARCH LICENSE
+
+Copyright (c) 2026 GenPTW Authors
+
+Permission is hereby granted, free of charge, solely for academic and non-commercial research purposes, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, and distribute the Software, subject to the following conditions:
+
+1. Non-Commercial Use Only.
+   The Software and any derivative works may NOT be used for any commercial purpose, including but not limited to:
+   - commercial products or services
+   - paid APIs or SaaS systems
+   - internal corporate deployment
+   - any revenue-generating activities
+
+2. Academic Use Allowed.
+   The Software may be used for academic research, teaching, and non-profit educational purposes.
+
+3. Attribution Requirement.
+   Any use or redistribution of the Software must retain the original copyright notice and this license.
+
+4. Derivative Works.
+   Any modified or derivative works must remain under the same non-commercial research restriction.
+
+5. No Warranty.
+   The Software is provided "AS IS", without warranty of any kind, express or implied.
+
+END OF TERMS
