@@ -16,7 +16,6 @@
 <sup>1</sup> College of Computer Science and Artificial Intelligence, Fudan University, China<br>
 <sup>2</sup> Ant Group, China
 </p>
-
 <p style="margin-top: 10px;">
 📧 <b>Contact</b>:  
 <a href="mailto:zlgan23@m.fudan.edu.cn">zlgan23@m.fudan.edu.cn</a> ·
@@ -24,9 +23,10 @@
 <a href="mailto:weiqiang.wwq@antgroup.com">weiqiang.wwq</a>, 
 <a href="mailto:binghao.wbh@antgroup.com">binghao.wbh</a>, 
 <a href="mailto:donn.csw@antgroup.com">donn.csw</a>}@antgroup.com ·
-{<a href="mailto:yichao_tang@fudan.edu.cn">yichao.tang</a>, 
+{<a href="mailto:yichao_tang@fudan.edu.cn">yichao_tang</a>, 
 <a href="mailto:zhangxinpeng@fudan.edu.cn">zhangxinpeng</a>}@fudan.edu.cn
 </p>
+
 
 <p style="margin-top: 6px;">
 <sup>*</sup> <b>Corresponding author</b>
