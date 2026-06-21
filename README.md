@@ -31,11 +31,12 @@
 <p style="margin-top: 6px;">
 <sup>*</sup> <b>Corresponding author</b>
 </p>
-</div>
 
 [![arXiv](https://img.shields.io/badge/arXiv-<Paper>-<COLOR>.svg)](https://arxiv.org/abs/2504.19567)
 [![Home Page](https://img.shields.io/badge/Project_Page-<Website>-blue.svg)](https://github.com/GanZhenliang/GenPTW)
 [![Camera-ready](https://img.shields.io/badge/Camera_Ready-<PDF>-red)](https://ojs.aaai.org/index.php/AAAI/article/view/37412)
+
+</div>
 
 ---
 
