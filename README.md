@@ -1,10 +1,6 @@
 <div align="center">
 <img src="./assets/logo.png" width="150"/>
-<h1>
-    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37412">
-        GenPTW: Latent Image Watermarking for Provenance Tracing and Tamper Localization
-    </a>
-</h1>
+<h1>GenPTW: Latent Image Watermarking for Provenance Tracing and Tamper Localization</h1>
 
 <p>
 <b><a href="https://github.com/GanZhenliang">Zhenliang Gan</a></b><sup>1</sup> ·
@@ -28,7 +24,7 @@
 <a href="mailto:weiqiang.wwq@antgroup.com">weiqiang.wwq</a>, 
 <a href="mailto:binghao.wbh@antgroup.com">binghao.wbh</a>, 
 <a href="mailto:donn.csw@antgroup.com">donn.csw</a>}@antgroup.com ·
-{<a href="mailto:yichao.tang@fudan.edu.cn">yichao.tang</a>, 
+{<a href="mailto:yichao_tang@fudan.edu.cn">yichao.tang</a>, 
 <a href="mailto:zhangxinpeng@fudan.edu.cn">zhangxinpeng</a>}@fudan.edu.cn
 </p>
 
@@ -36,6 +32,10 @@
 <sup>*</sup> <b>Corresponding author</b>
 </p>
 </div>
+
+[![arXiv](https://img.shields.io/badge/arXiv-<Paper>-<COLOR>.svg)](https://arxiv.org/abs/2504.19567)
+[![Home Page](https://img.shields.io/badge/Project_Page-<Website>-blue.svg)](https://github.com/GanZhenliang/GenPTW)
+[![Camera-ready](https://img.shields.io/badge/Camera_Ready-<PDF>-red)](https://ojs.aaai.org/index.php/AAAI/article/view/37412)
 
 ---
 
