@@ -1,7 +1,10 @@
 <div align="center">
 <img src="./assets/logo.png" width="150"/>
-
-<h1>GenPTW: Latent Image Watermarking for Provenance Tracing and Tamper Localization</h1>
+<h1>
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37412">
+        GenPTW: Latent Image Watermarking for Provenance Tracing and Tamper Localization
+    </a>
+</h1>
 
 <p>
 <b><a href="https://github.com/GanZhenliang">Zhenliang Gan</a></b><sup>1</sup> ·
