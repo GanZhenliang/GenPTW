@@ -93,10 +93,12 @@ The main hyper-parameters used in `genptw_train.py` are listed below:
 
 Download the pretrained 📦[checkpoint](https://drive.google.com/file/d/1nC85Jc0B6K5ycqRHN0NFWVQP2jSLHsoT/view?usp=drive_link), and organize it as:
 
+```
 Checkpoint/
  ├── msg_decoder.pth
  ├── localizer.pth
  └── diffusion_pytorch_model.safetensors
+```
 
 Then update the corresponding paths in `Test.py`.
 
